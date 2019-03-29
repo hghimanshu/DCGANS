@@ -17,7 +17,7 @@ This repo contains **GAN** codes implemented on famous datasets like Cifar10, MN
 > *https://github.com/hghimanshu/DCGANS.git*
 
 2. After cloning type 
-> cd *DCGANS*
+> cd DCGANS
 
 3. Run the required file as 
-> *python gan_cifar10.py*
+> python gan_cifar10.py
