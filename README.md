@@ -2,7 +2,7 @@
 
 This repo contains **GAN** codes implemented on famous datasets like Cifar10, MNIST etc.
 
-1. *gan_cifar10.py* --- [For CIFAR10 Dataset]
+1. *gan_cifar10.py* --- [ For CIFAR10 Dataset ]
 
 **-----------------------------------**
 
