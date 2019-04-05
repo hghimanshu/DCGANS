@@ -14,7 +14,7 @@ This repo contains **GAN** codes implemented on famous datasets like Cifar10, MN
 ### Running the code
 
 1. Clone the repository using 
-> *https://github.com/hghimanshu/DCGANS.git*
+> git clone *https://github.com/hghimanshu/DCGANS.git*
 
 2. After cloning type 
 > cd DCGANS
